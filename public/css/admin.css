@@ -1,0 +1,55 @@
+.modal-header .subtitle {
+    font-size: 14px;
+}
+
+.modal-dialog .modal-body {
+    min-height: 150px;
+}
+
+.modal-body .error {
+    color: red;
+}
+
+/* FullCalendar */
+
+.fc-day-grid-event {
+    margin: 1px !important;
+    padding: 2px 5px !important;
+}
+
+.fc-event:hover {
+    cursor: pointer;
+}
+
+.fc-fri, .fc-sat {
+    background-color: #f0ffe7;
+}
+
+.fc-today {
+    border: 1px solid #fed22f;
+}
+
+.fc-day-header {
+    background-color: #512F50 !important;
+    background-image: none;
+    line-height: 30px;
+    color: #fff;
+    font-size: 14px;
+    text-shadow: 1px 1px 1px #333;
+    font-weight: normal;
+}
+
+/* Offers */
+
+.table > tbody > tr.alert-success > td,
+.table > tbody > tr.alert-warning > td {
+    border-top: 2px solid #fff;
+}
+
+.table > thead > tr > th {
+    /*border-bottom: none;*/
+}
+
+.table > tbody > tr > td {
+    vertical-align: middle;
+}

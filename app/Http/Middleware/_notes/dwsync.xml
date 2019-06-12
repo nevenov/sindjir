@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Authenticate.php" server="sinjirite.bg" local="131649092947224362" remote="130964184000000000" Dst="1" />
+<file name="AdminAuthentication.php" server="sinjirite.bg" local="131649092947344369" remote="131035032000000000" Dst="1" />
+<file name="EncryptCookies.php" server="sinjirite.bg" local="131649092947654386" remote="130964184000000000" Dst="1" />
+<file name="RedirectIfAuthenticated.php" server="sinjirite.bg" local="131649092947924402" remote="130964184000000000" Dst="1" />
+<file name="VerifyCsrfToken.php" server="sinjirite.bg" local="131649092948254421" remote="130964184000000000" Dst="1" />
+</dwsync>

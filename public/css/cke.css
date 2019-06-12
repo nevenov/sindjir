@@ -1,0 +1,77 @@
+body {
+    font-family: RobotoLight, Arial;
+    margin: 0 0 241px; /* bottom = footer height */
+}
+
+h1, h2, h3 {
+    font-family: Georgia, "Helvetica Neue";
+}
+
+h2 {
+    font-size: 26px;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+ul li,
+ol li {
+    margin-bottom: 10px;
+}
+
+.info-box {
+    padding: 20px;
+    background: #fffadd;
+    box-shadow: inset 0 0 0 5px rgba(200, 200, 200, 0.1), 0 0 3px 0 rgba(0, 0, 0, 0.35);
+    border: 1px solid #fff;
+    margin-bottom: 15px;
+}
+
+.gray-box {
+    padding: 10px 15px;
+    background: #eee;
+    border: 1px solid #ccc;
+}
+
+.cke_editable {
+    padding: 15px;
+}
+
+
+/*************************************************
+    Fonts
+*************************************************/
+@font-face {
+    font-family: 'RobotoLight';
+    src: url(../fonts/roboto_light/roboto-light-webfont.eot);
+    src: url(../fonts/roboto_light/roboto-light-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto_light/roboto-light-webfont.woff2) format('woff2'),
+    url(../fonts/roboto_light/roboto-light-webfont.woff) format('woff'),
+    url(../fonts/roboto_light/roboto-light-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoLight';
+    src: url(../fonts/roboto_regular/roboto-regular-webfont.eot);
+    src: url(../fonts/roboto_regular/roboto-regular-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto_regular/roboto-regular-webfont.woff2) format('woff2'),
+    url(../fonts/roboto_regular/roboto-regular-webfont.woff) format('woff'),
+    url(../fonts/roboto_regular/roboto-regular-webfont.ttf) format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RobotoCondensed';
+    src: url(../fonts/roboto_condensed/robotocondensed-regular-webfont.eot);
+    src: url(../fonts/roboto_condensed/robotocondensed-regular-webfont.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/roboto_condensed/robotocondensed-regular-webfont.woff2) format('woff2'),
+    url(../fonts/roboto_condensed/robotocondensed-regular-webfont.woff) format('woff'),
+    url(../fonts/roboto_condensed/robotocondensed-regular-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
